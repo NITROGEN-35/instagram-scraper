@@ -45,8 +45,6 @@ The project uses:
 
 ## 🏗 Project Structure
 
-## 🏗 Project Structure
-
 
 instagram-scraper/
 │
