@@ -1,0 +1,6 @@
+__pycache__/ 
+*.pyc 
+venv/ 
+chrome_profile/ 
+selenium_profile/ 
+*.log 
